@@ -6,3 +6,9 @@ los archivos hasta el momento son:
 2. Ejercicios extras semanales
 
 se encuentran en la carpeta Actividad_semana1
+
+Los archivos de la semana 2 son
+1. CobroEntradasMuseo
+2. extras_semana2
+
+se encuentran en la carpeta Semana_2
