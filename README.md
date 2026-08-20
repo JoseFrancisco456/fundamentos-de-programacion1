@@ -7,7 +7,7 @@ los archivos hasta el momento son:
 
 se encuentran en la carpeta Actividad_semana1
 
-Los archivos de la semana 2 son
+Los archivos de la semana 2 son:
 1. CobroEntradasMuseo
 2. extras_semana2
 
